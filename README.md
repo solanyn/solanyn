@@ -1,3 +1,3 @@
 # Hi!
 
-![github4life](https://octodex.github.com/images/yaktocat.png)
+![github4life](https://github4life.herokuapp.com/solanyn.gif)
