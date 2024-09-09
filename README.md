@@ -4,7 +4,6 @@ I currently work on building distributed ML systems at Ericsson.
 
 I'm interested in:
 
-* Bazel
-* Computer Vision ML models
+* Computer Vision
 * JAX, PyTorch and TensorFlow
 * ML systems
