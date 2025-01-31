@@ -1,9 +1,9 @@
-### 👋 Hi, thanks for stopping by!
+### 👋
 
-I currently work on building distributed ML systems at Ericsson. 
+ML engineer building things on k8s@home
 
-I'm interested in:
+Tech I'm interested in:
 
-* Computer Vision
-* JAX, PyTorch and TensorFlow
-* ML systems
+* jax, pytorch, polars
+* rust, svelte, react
+* kubernetes, fluxcd
