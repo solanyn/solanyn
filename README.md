@@ -1,9 +1,9 @@
 ### 👋
 
-ML engineer building things on k8s@home
+ML/MLOps Engineer
 
 Tech I'm interested in:
 
-* jax, pytorch, polars
-* rust, svelte, react
-* kubernetes, fluxcd
+* jax, pytorch
+* rust, go, react, bazel
+* k8s, flux, kubeflow ecosystem
